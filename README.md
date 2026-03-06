@@ -32,15 +32,6 @@ A dedicated Full Stack Developer with a strong foundation in Java technologies a
 
 ---
 
-### 📈 My GitHub Journey
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Poovarasan-Y&show_icons=true&theme=radical" alt="Poovarasan's GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poovarasan-Y&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
