@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Poovarasan Yuvaraj!
 
+  **Fullstack Developer** <br> <br>
+   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=alvalens)](https://github.com/Poovarasan-Y) [![committers.top badge](https://user-badge.committers.top/indonesia_private/Alvalens.svg)](https://user-badge.committers.top/indonesia_private/Alvalens)</a>
+   
 ### 👨‍💻 Full Stack Developer | Java & Spring Boot Enthusiast
 
 A dedicated Full Stack Developer with a strong foundation in Java technologies and modern frontend frameworks. I enjoy building scalable, user-centric applications and solving complex architectural challenges.
