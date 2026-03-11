@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Poovarasan Yuvaraj!
 
-  **Fullstack Developer** <br> <br>
-   <p align='center'> 
-   
-   <img src="https://github.com/Alvalens/Alvalens/assets/109880628/47a90027-6911-40a2-ac4a-501d9cd3eeee"/>
-</p>
 ### 👨‍💻 Full Stack Developer | Java & Spring Boot Enthusiast
 
 A dedicated Full Stack Developer with a strong foundation in Java technologies and modern frontend frameworks. I enjoy building scalable, user-centric applications and solving complex architectural challenges.
